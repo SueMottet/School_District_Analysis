@@ -1,6 +1,6 @@
 # School District Analysis Overview
 
-## Replacing one schools ninth grade reading and math scores
+## Replacing one school's ninth grade reading and math scores
 
 ## Repeating the school district analysis
 
