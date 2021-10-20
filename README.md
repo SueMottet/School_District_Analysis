@@ -5,6 +5,7 @@
 ## Repeating the school district analysis
 
 ## School District Analysis written report
+School data in a school district testing file shows evidence of academic dishonesty; specifically, reading and math grades for ninth graders at a single school appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. The request has come through to replace the math and reading scores for one grade at a single High School with NaNs while keeping the rest of the data intact. Once the data is replaced for those math and reading scores, school district analysis will performed for again and a report will be created to describe how these changes affected the overall analysis.
 
 ## References
 * Anaconda installation documentation https://docs.anaconda.com/anaconda/install/
@@ -43,13 +44,15 @@
 # School District Analysis Results
 
 ## School District Metrics
-* School District Metric 1
-* School District Metric 2
-* School District Metric 3
-* School District Metric 4
-* School District Metric 5
-* School District Metric 6
-* School District Metric 7
+* District Summary
+* School Summary
+* Top 5 5 performing schools, based on the overall passing rate
+* Bottom 5 performing schools, based on the overall passing rate
+* Average math score for each grade level from each school
+* Average reading score for each grad level from each school
+* Scores by school spending per student
+* Scores by school size
+* Score by school type
 
 ## School District Analysis changes - impact of replacing a school grade's math and reading scores with NaN
 1.
