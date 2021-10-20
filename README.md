@@ -7,6 +7,12 @@
 ## School District Analysis written report
 School data in a school district testing file shows evidence of academic dishonesty; specifically, reading and math grades for ninth graders at a single school appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. The request has come through to replace the math and reading scores for one grade at a single High School with NaNs while keeping the rest of the data intact. Once the data is replaced for those math and reading scores, a repeat of the school district analysis will performed and a report will be created to describe how these changes affected the overall analysis.
 
+## Project Resources
+* Jupyter Notebook
+* Anaconda
+* Pandas
+* Python
+
 ## References
 * Anaconda installation documentation https://docs.anaconda.com/anaconda/install/
 * Anaconda - creating a development environment https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands
@@ -41,6 +47,7 @@ School data in a school district testing file shows evidence of academic dishone
 * Pandas groupby() https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
 * Pandas sort_value() https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html
 * Pandas cut() https://courses.bootcampspot.com/courses/811/pages/4-dot-11-dot-2-categorize-the-spending-bins?module_item_id=301219
+*
 # School District Analysis Results
 
 ## School District Metrics
