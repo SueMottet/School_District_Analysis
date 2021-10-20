@@ -1,4 +1,10 @@
-# School_District_Analysis
+# School District Analysis Overview
+
+## Replacing one schools ninth grade reading and math scores
+
+## Repeating the school district analysis
+
+## School District Analysis written report
 
 ## References
 * Anaconda installation documentation https://docs.anaconda.com/anaconda/install/
@@ -26,3 +32,24 @@
 * Pandas replace() https://docs.python.org/3/library/stdtypes.html#string-methods
 * Pandas  - merging DataFrames https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.merge.html
 * Pandas - merging, joining, and concatenating DataFrames https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
+* Pandas - unique() https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.unique.html
+* Pandas Format examples https://docs.python.org/3.4/library/string.html#format-examples
+* Pandas Format specification https://docs.python.org/3.4/library/string.html#format-specification-mini-language
+* Pandas set_index method https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.set_index.html
+* Pandas value_counts() https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
+* Pandas groupby() https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
+* Pandas sort_value() https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html
+* Pandas cut() https://courses.bootcampspot.com/courses/811/pages/4-dot-11-dot-2-categorize-the-spending-bins?module_item_id=301219
+# School District Analysis Results
+
+## School District Metrics
+* School District Metric 1
+* School District Metric 2
+* School District Metric 3
+* School District Metric 4
+* School District Metric 5
+* School District Metric 6
+* School District Metric 7
+
+## School District Analysis changes - impact of replacing a school grade's math and reading scores with NaN
+
