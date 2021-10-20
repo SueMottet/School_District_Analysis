@@ -5,7 +5,7 @@
 ## Repeating the school district analysis
 
 ## School District Analysis written report
-School data in a school district testing file shows evidence of academic dishonesty; specifically, reading and math grades for ninth graders at a single school appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. The request has come through to replace the math and reading scores for one grade at a single High School with NaNs while keeping the rest of the data intact. Once the data is replaced for those math and reading scores, a repeat of the school district analysis will performed and a report will be created to describe how these changes affected the overall analysis.
+School data in a school district testing file shows evidence of academic dishonesty; specifically, reading and math grades for ninth graders at a single school appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. The request has come through to replace the math and reading scores for one grade at a single High School with NaNs while keeping the rest of the data intact. Once the data is replaced for those math and reading scores, a repeat of the school district analysis will be performed and a report will be created to describe how these changes affected the overall analysis.
 
 ## Project Resources
 * Jupyter Notebook
