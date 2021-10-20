@@ -52,4 +52,8 @@
 * School District Metric 7
 
 ## School District Analysis changes - impact of replacing a school grade's math and reading scores with NaN
-
+1.
+2.
+3.
+4.
+5.
