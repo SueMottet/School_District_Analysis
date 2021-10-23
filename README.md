@@ -75,15 +75,23 @@ School data in a school district testing file shows evidence of academic dishone
 
 #### Before 
 
+![pre NaN High Performing Schools image](/Resources/pre_NAN_high_performing_schools.png) 
+
 #### After
+
+![after NaN High Performing Schools Image](/Resources/after_NAN_high_performing_schools.png) 
 
 ## Bottom 5 Performing Schools Comparision (based on the overall passing rate)
 
 #### Before 
 
+![pre NaN Low Performing Schools image](/Resources/pre_NAN_low_performing_schools.png) 
+
 #### After
 
 ## Average math score for each grade level from each school
+
+![after NaN Low Performing Schools image](/Resources/after_NAN_low_performing_schools.png) 
 
 #### Before 
 
