@@ -126,7 +126,11 @@ School data in a school district testing file shows evidence of academic dishone
 
 #### Before 
 
+![pre NaN Scores By School Size image](/Resources/pre_NAN_scores_by_school_size.png) 
+
 #### After
+
+![after NaN Scores By School Size image](/Resources/after_NAN_scores_by_school_size.png) 
 
 ## Score by school type
 
