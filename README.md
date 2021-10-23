@@ -65,7 +65,7 @@ School data in a school district testing file shows evidence of academic dishone
 
 #### Before
 
-![pre NaN School Summary image](/Resources/pre_school_summary.png) 
+![pre NaN School Summary image](/Resources/pre_NAN_school_summary.png) 
 
 * #### After
 
