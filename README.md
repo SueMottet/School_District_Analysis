@@ -93,11 +93,14 @@ School data in a school district testing file shows evidence of academic dishone
 
 ## Average math score for each grade level from each school
 
-
-
 #### Before 
 
+![pre NaN Averge Math Scores image](/Resources/pre_NAN_math_scores_by_grade.png) 
+
 #### After
+
+![after NaN Low Performing Schools image](/Resources/after_NAN_math_scores_by_grade.png) 
+
 
 ## Average reading score for each grad level from each school
 
