@@ -136,7 +136,11 @@ School data in a school district testing file shows evidence of academic dishone
 
 #### Before 
 
+![pre NaN Scores By School Type image](/Resources/pre_NAN_scores_by_school_type.png) 
+
 #### After
+
+![after NaN Scores By School Type image](/Resources/after_NAN_scores_by_school_type.png) 
 
 ## School District Analysis changes - impact of replacing a school grade's math and reading scores with NaN
 1.
