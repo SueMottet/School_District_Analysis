@@ -52,19 +52,66 @@ School data in a school district testing file shows evidence of academic dishone
 
 ## School District Metrics
 ### District Summary Comparison
-#### Before 
+
+#### Before
+
 ![pre NaN District Summary image](/Resources/pre_district_summary.png)
+
 #### After
+
 ![after NaN District Summary image](/Resources/after_NAN_district_summary.png)
 
-* School Summary
-* Top 5 5 performing schools, based on the overall passing rate
-* Bottom 5 performing schools, based on the overall passing rate
-* Average math score for each grade level from each school
-* Average reading score for each grad level from each school
-* Scores by school spending per student
-* Scores by school size
-* Score by school type
+## School Summary
+
+#### Before
+
+![pre NaN School Summary image](/Resources/pre_school_summary.png) 
+
+* #### After
+
+![after NaN School Summary image](/Resources/after_NAN_school_summary.png)
+* 
+## Top 5 Performing Schools Comparision (based on the overall passing rate)
+
+#### Before 
+
+#### After
+
+## Bottom 5 Performing Schools Comparision (based on the overall passing rate)
+
+#### Before 
+
+#### After
+
+## Average math score for each grade level from each school
+
+#### Before 
+
+#### After
+
+## Average reading score for each grad level from each school
+
+#### Before 
+
+#### After
+
+## Scores by school spending per student
+
+#### Before 
+
+#### After
+
+## Scores by school size
+
+#### Before 
+
+#### After
+
+## Score by school type
+
+#### Before 
+
+#### After
 
 ## School District Analysis changes - impact of replacing a school grade's math and reading scores with NaN
 1.
