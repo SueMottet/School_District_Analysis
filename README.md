@@ -51,7 +51,12 @@ School data in a school district testing file shows evidence of academic dishone
 # School District Analysis Results
 
 ## School District Metrics
-* District Summary
+### District Summary Comparison
+#### Before 
+![pre NaN District Summary image](/Resources/pre_district_summary.png)
+#### After
+![after NaN District Summary image](/Resources/after_NAN_district_summary.png)
+
 * School Summary
 * Top 5 5 performing schools, based on the overall passing rate
 * Bottom 5 performing schools, based on the overall passing rate
