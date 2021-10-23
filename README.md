@@ -102,11 +102,15 @@ School data in a school district testing file shows evidence of academic dishone
 ![after NaN Low Performing Schools image](/Resources/after_NAN_math_scores_by_grade.png) 
 
 
-## Average reading score for each grad level from each school
+## Average reading score for each grade level from each school
 
 #### Before 
 
+![pre NaN Averge Reading Scores image](/Resources/pre_NAN_reading_scores_by_grade.png) 
+
 #### After
+
+![after NaN Averge Reading Scores image](/Resources/after_NAN_reading_scores_by_grade.png) 
 
 ## Scores by school spending per student
 
