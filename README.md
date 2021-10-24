@@ -31,16 +31,16 @@ A de-identified sampling of the school data showing the Thomas High School ninth
 
 ### 2. Repeating the school district analysis
 
-## 3. School District Analysis written report
+### 3. School District Analysis written report
 
 
-## Project Resources
+### Project Resources
 * Jupyter Notebook
 * Anaconda
 * Pandas
 * Python
 
-## References
+### References
 * Anaconda installation documentation https://docs.anaconda.com/anaconda/install/
 * Anaconda - creating a development environment https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands
 * Anaconda  - activating a development environment https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment
