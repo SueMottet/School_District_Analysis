@@ -103,6 +103,7 @@ The School Summary after the Thomas ninth grade data replacement work is perform
 ![after NaN School Summary image](/Resources/after_NAN_school_summary.png)
 
 ## Top 5 Performing Schools Comparision (based on the overall passing rate)
+The top five performing school information changed after the replacement but only for Thomas High School and data change would likely not be evident to data users (the school board and superintendent). It looks like removing the ninth grade testing scores did not impact Thomas High Schools performance rank.
 
 The top five performing schools before the Thomas ninth grade data replacement work is performed are shown here:
 ![pre NaN High Performing Schools image](/Resources/pre_NAN_high_performing_schools.png) 
@@ -111,13 +112,12 @@ The top five performing schools after the Thomas ninth grade data replacement wo
 ![after NaN High Performing Schools Image](/Resources/after_NAN_high_performing_schools.png) 
 
 ## Bottom 5 Performing Schools Comparision (based on the overall passing rate)
+The bottom five performing school information did not change after the replacement. Thomas High School data did not factor into this data set either before or after the data replacement other than be part of an overall rank which did not change.
 
-#### Before 
-
+The bottom five performing schools before the Thomas ninth grade data replacement work is performed are shown here:
 ![pre NaN Low Performing Schools image](/Resources/pre_NAN_low_performing_schools.png) 
 
-#### After
-
+The bottom five performing schools after the Thomas ninth grade data replacement work is performed are shown here:
 ![after NaN Low Performing Schools image](/Resources/after_NAN_low_performing_schools.png) 
 
 ## Average math score for each grade level from each school
