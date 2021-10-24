@@ -19,7 +19,7 @@ Both sets of analysis include the following metrics:
 ## Key Project Deliverables:
 ### 1. Replacing one school's ninth grade reading and math scores
 
-Before performing the replacement of the Thomas High School ninth grade reading and math scores, the school data was populated with numbers like all the rest of the schools testing scores.
+Before performing the replacement of the Thomas High School ninth grade reading and math scores, the school data was populated with numbers like testing scores for all the rest of the schools.
 
 A de-identified sampling of the Thomas ninth grade data before the data replacement work is performed is shown here:
 ![Pre Replacement image](/Resources/did_pre_NAN_replacement.png)
