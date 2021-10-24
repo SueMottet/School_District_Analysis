@@ -82,7 +82,7 @@ The written reort on this school district analysis is included in this README.
 * Pandas sort_value() https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html
 * Pandas cut() https://courses.bootcampspot.com/courses/811/pages/4-dot-11-dot-2-categorize-the-spending-bins?module_item_id=301219
 *
-# School District Analysis Result Summary
+# School District Analysis Results Summary
 The school district analysis results include a number of metrics aimed at identifying trends in school performance.  Removing data for a whole grade at one of the schools in the district will impact the accuracy of the school performance information and make identifying these trends more difficult. The nature of these impacts will be detailed as part of this analysis results summary.
 
 ## School District Metrics
@@ -122,25 +122,23 @@ The bottom five performing schools before the Thomas ninth grade data replacemen
 The bottom five performing schools after the Thomas ninth grade data replacement work is performed are shown here:
 ![after NaN Low Performing Schools image](/Resources/after_NAN_low_performing_schools.png) 
 
-## Average math score for each grade level from each school
+## Average math scores for each grade level from each school
+The average math scores for each grade changes after the data replacement work but only for Thomas High School.
 
-#### Before 
-
+The average math scores for each grade level before the Thomas ninth grade data replacement work is performed are shown here:
 ![pre NaN Averge Math Scores image](/Resources/pre_NAN_math_scores_by_grade.png) 
 
-#### After
-
+The average math scores for each grade level after the Thomas ninth grade data replacement work is performed are shown here:
 ![after NaN Low Performing Schools image](/Resources/after_NAN_math_scores_by_grade.png) 
 
 
-## Average reading score for each grade level from each school
+## Average reading scores for each grade level from each school
+The average reading scores for each grade changes after the data replacement work but only for Thomas High School.
 
-#### Before 
-
+he average reading scores for each grade level before the Thomas ninth grade data replacement work is performed are shown here:
 ![pre NaN Averge Reading Scores image](/Resources/pre_NAN_reading_scores_by_grade.png) 
 
-#### After
-
+he average reading scores for each grade level after the Thomas ninth grade data replacement work is performed are shown here:
 ![after NaN Averge Reading Scores image](/Resources/after_NAN_reading_scores_by_grade.png) 
 
 ## Scores by school spending per student
