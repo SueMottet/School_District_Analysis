@@ -169,7 +169,7 @@ The scores by school type after the Thomas ninth grade data replacement work is 
 ![after NaN Scores By School Type image](/Resources/after_NAN_scores_by_school_type.png) 
 
 ## School District Analysis changes - impact of replacing a school grade's math and reading scores with NaN
-1. As part of the presention of this altered information, the presenter could inform data users of the special circumstances around the data changes and if needed notate this information on any handouts etc.
+1. As part of the presentation of this altered information, the presenter could inform data users of the special circumstances around the data changes and if needed notate this information on any handouts etc.
 2. District Summary was impacted slightly
 3. Thomas High School's testing scores in the School Summary were impacted by the data replacement work and may be misleading.
 4. The data replacement did not have an effect on Thomas High School's overall ranking or the ranking of other schools.
