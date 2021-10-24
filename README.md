@@ -175,7 +175,6 @@ The School Summary after the Thomas ninth grade data replacement work is perform
 
 ## School District Analysis changes - impact of replacing a school grade's math and reading scores with NaN
 1. As part of the presention of this altered information the presenter should inform data users of the special circumstances around the data changes and if needed notate this information on any handouts etc.
-2.
-3.
-4.
-5.
+2. District Summary was impacted slightly
+3. Thomas High School's testing scores in the School Sumary are misleading
+4. 
