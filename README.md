@@ -104,12 +104,10 @@ The School Summary after the Thomas ninth grade data replacement work is perform
 
 ## Top 5 Performing Schools Comparision (based on the overall passing rate)
 
-#### Before 
-
+The top five performing schools before the Thomas ninth grade data replacement work is performed are shown here:
 ![pre NaN High Performing Schools image](/Resources/pre_NAN_high_performing_schools.png) 
 
-#### After
-
+The top five performing schools after the Thomas ninth grade data replacement work is performed are shown here:
 ![after NaN High Performing Schools Image](/Resources/after_NAN_high_performing_schools.png) 
 
 ## Bottom 5 Performing Schools Comparision (based on the overall passing rate)
@@ -179,3 +177,4 @@ The School Summary after the Thomas ninth grade data replacement work is perform
 3. Thomas High School's testing scores in the School Summary were impacted by the data replacement work and may be misleading.
 4. The data replacement did not effect Thomas High School's overall ranking or the ranking of other schools.
 5. Because the average math and reading score are by grade, the replacements show and it is evident that the Thomas High School ninth grade scores are not being calculated
+6. The scores by spending, school size, and school type are percentages based on testing scores and as such the results for all these were impacted by the data replacement.
