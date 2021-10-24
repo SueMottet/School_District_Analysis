@@ -3,7 +3,7 @@ After working with the chief data scientist for a city school district to perfor
 
 Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. The request has come through to replace the math and reading scores for one grade at a single High School with NaNs while keeping the rest of the data intact. Once the data is replaced for those math and reading scores, a repeat of the school district analysis will be performed and a report will be created to describe how these changes affected the overall analysis.
 
-## Project background
+## Project Background
 The initial analysis work performed anaysis and aggregations on student funding and student's standard test scores to provide insights about performance trends and patterns. 
 These insights are to be used to inform discussions and strategic decisions at the school and district level. 
 
@@ -15,11 +15,11 @@ Both sets of analysis include the following metrics:
 * The average reading score for each grade level from each school
 * The scores by school spending per student, by school size, and by school type
 
-##Project Goals:
+## Project Goals:
 
 ### 1. Replacing one school's ninth grade reading and math scores
 
-Before performing the replacement of the Thomas High School ninth grade reading and math scores the school data was populated with numbers like all the rest of the schools testing scores.
+Before performing the replacement of the Thomas High School ninth grade reading and math scores, the school data was populated with numbers like all the rest of the schools testing scores.
 
 A de-identified sampling of the Thomas ninth grade data before the data replacement work is performed is shown here:
 ![Pre Replacement image](/Resources/did_pre_NAN_replacement.png)
@@ -30,7 +30,14 @@ A de-identified sampling of the school data showing the Thomas High School ninth
 ![After Replacement image](/Resources/did_after_NAN_replacement.png)
 
 ### 2. Repeating the school district analysis
-
+After performing the replacement of the Thomas High School ninth grade reading and math scores with NaN, the analysis was repeated using the altered data and these metrics were recalculated:
+* The district summary
+* The school summary
+* The top 5 and bottom 5 performing schools, based on the overall passing rate
+* The average math score for each grade level from each school
+* The average reading score for each grade level from each school
+* The scores by school spending per student, by school size, and by school type
+* 
 ### 3. School District Analysis written report
 
 
