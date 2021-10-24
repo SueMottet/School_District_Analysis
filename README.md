@@ -15,8 +15,7 @@ Both sets of analysis include the following metrics:
 * The average reading score for each grade level from each school
 * The scores by school spending per student, by school size, and by school type
 
-## Project Deliverables:
-
+## Key Project Deliverables:
 ### 1. Replacing one school's ninth grade reading and math scores
 
 Before performing the replacement of the Thomas High School ninth grade reading and math scores, the school data was populated with numbers like all the rest of the schools testing scores.
@@ -38,8 +37,8 @@ After performing the replacement of the Thomas High School ninth grade reading a
 * The average reading score for each grade level from each school
 * The scores by school spending per student, by school size, and by school type
 
-### 3. School District analysis written report comparing results
-
+### 3. School District Analysis written report comparing results
+The written reort on this school district analysis is included in this README.
 
 ### Project Resources
 * Jupyter Notebook
