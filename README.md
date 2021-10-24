@@ -17,6 +17,8 @@ Both sets of analysis include the following metrics:
 
 ## Replacing one school's ninth grade reading and math scores
 
+Before perform the replacement of the ninth grade reading and math scores they were populate with numbers like all the rest of the schools testing score. 
+
 ![pre NaN District Replacement image](/Resources/pre_NAN_replacement.png)
 
 ![after NaN District Replacement image](/Resources/after_NAN_replacement.png)
