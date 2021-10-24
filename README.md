@@ -85,13 +85,12 @@ The written reort on this school district analysis is included in this README.
 
 ## School District Metrics
 ### District Summary Comparison
+The district summary information changed after the replacement but only slightly and data change would likely not be evident to data users (the school board and superintendent)
 
-#### Before
-
+The District Summary before the Thomas ninth grade data replacement work is performed is shown here:
 ![pre NaN District Summary image](/Resources/pre_district_summary.png)
 
-#### After
-
+The District Summary after the Thomas ninth grade data replacement work is performed is shown here:
 ![after NaN District Summary image](/Resources/after_NAN_district_summary.png)
 
 ## School Summary
@@ -176,7 +175,7 @@ The written reort on this school district analysis is included in this README.
 ![after NaN Scores By School Type image](/Resources/after_NAN_scores_by_school_type.png) 
 
 ## School District Analysis changes - impact of replacing a school grade's math and reading scores with NaN
-1.
+1. As part of the presention of this altered information the presenter should inform data users of the special circumstances around the data changes and if needed notate this information on any handouts etc.
 2.
 3.
 4.
