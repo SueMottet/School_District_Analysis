@@ -1,11 +1,30 @@
 # School District Analysis Overview
+After working with the chief data scientist for a city school district to perform analysis and provide aggregates of data used to identify trends in school performance for assisting their school board and superintendent in making decision around school budgets and priorities, it is discovered that school data in a school district testing file shows evidence of academic dishonesty specifically, reading and math grades for ninth graders at a single school appear to have been altered. 
+
+Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. The request has come through to replace the math and reading scores for one grade at a single High School with NaNs while keeping the rest of the data intact. Once the data is replaced for those math and reading scores, a repeat of the school district analysis will be performed and a report will be created to describe how these changes affected the overall analysis.
+
+## Project background
+The initial analysis work performed anaysis and aggregations on student funding and student's standard test scores to provide insights about performance trends and patterns. 
+These insights are to be used to inform discussions and strategic decisions at the school and district level. 
+
+Both sets of analysis include the following metrics:
+* The district summary
+* The school summary
+* The top 5 and bottom 5 performing schools, based on the overall passing rate
+* The average math score for each grade level from each school
+* The average reading score for each grade level from each school
+* The scores by school spending per student, by school size, and by school type
 
 ## Replacing one school's ninth grade reading and math scores
+
+![pre NaN District Replacement image](/Resources/pre_NAN_replacement.png)
+
+![after NaN District Replacement image](/Resources/after_NAN_replacement.png)
 
 ## Repeating the school district analysis
 
 ## School District Analysis written report
-School data in a school district testing file shows evidence of academic dishonesty; specifically, reading and math grades for ninth graders at a single school appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. The request has come through to replace the math and reading scores for one grade at a single High School with NaNs while keeping the rest of the data intact. Once the data is replaced for those math and reading scores, a repeat of the school district analysis will be performed and a report will be created to describe how these changes affected the overall analysis.
+
 
 ## Project Resources
 * Jupyter Notebook
