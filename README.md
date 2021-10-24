@@ -3,10 +3,11 @@ After working with the chief data scientist for a city school district to perfor
 
 Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. The request has come through to replace the math and reading scores for one grade at a single High School with NaNs while keeping the rest of the data intact. Once the data is replaced for those math and reading scores, a repeat of the school district analysis will be performed and a report will be created to describe how these changes affected the overall analysis.
 
-## Project Background
+## School District Analysis Background
 The initial analysis work performed anaysis and aggregations on student funding and student's standard test scores to provide insights about performance trends and patterns. 
 These insights are to be used to inform discussions and strategic decisions at the school and district level. 
 
+### School District Analysis Aggregates
 Both sets of analysis include the following metrics:
 * The district summary
 * The school summary
