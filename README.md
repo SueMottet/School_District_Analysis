@@ -39,7 +39,7 @@ After performing the replacement of the Thomas High School ninth grade reading a
 * The scores by school spending per student, by school size, and by school type
 
 ### 3. School District Analysis written report comparing results
-The written reort on this school district analysis is included in this README.
+The written report on this school district analysis is included in this README.
 
 ### Project Resources
 * Jupyter Notebook
