@@ -147,7 +147,7 @@ The scores by school spending information changed after the replacement because 
 The scores by school spending before the Thomas ninth grade data replacement work is performed are shown here:
 ![pre NaN Scores By Spending image](/Resources/pre_NAN_scores_by_spending.png) 
 
-The scores by school spending afer the Thomas ninth grade data replacement work is performed are shown here:
+The scores by school spending after the Thomas ninth grade data replacement work is performed are shown here:
 ![after NaN Scores By Spending image](/Resources/after_NAN_scores_by_spending.png) 
 
 ## Scores by school size
