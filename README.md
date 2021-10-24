@@ -194,4 +194,4 @@ The scores by school type after the Thomas ninth grade data replacement work is 
 3. Thomas High School's testing scores in the School Summary were impacted by the data replacement work and may be misleading.
 4. The data replacement did not have an effect on Thomas High School's overall ranking or the ranking of other schools.
 5. Because the average math and reading score are by grade, the replacements show and it is evident that the Thomas High School ninth grade scores are not being calculated.
-6. The scores by spending, school size, and school type are percentages and as such the results for all these were impacted by the data replacement.
+6. The scores by spending, school size, and school type are percentages and as such the results for all of these were impacted by the data replacement.
