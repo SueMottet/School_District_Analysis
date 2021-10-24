@@ -24,7 +24,7 @@ A de-identified sampling of the Thomas ninth grade data before the data replacem
 
 After performing the replacement of the Thomas High School ninth grade reading and math scores with NaN, the school data was altered only for one school: Thomas High School and one grade: ninth grade. the rest of the school data was left as it was. 
 
-A de-identified sampling of the school daa showing the Thomas High School ninth grade data changed is shown here:
+A de-identified sampling of the school data showing the Thomas High School ninth grade data changed is shown here:
 ![After Replacement image](/Resources/did_after_NAN_replacement.png)
 
 ## Repeating the school district analysis
