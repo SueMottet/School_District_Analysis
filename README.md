@@ -142,7 +142,7 @@ The average reading scores for each grade level after the Thomas ninth grade dat
 ![after NaN Averge Reading Scores image](/Resources/after_NAN_reading_scores_by_grade.png) 
 
 ## Scores by school spending per student
-The scores by school spending information changed after the replacement because student counts were impacted.
+The scores by school spending information changed after the replacement because the percentages were impacted.
 
 The scores by school spending before the Thomas ninth grade data replacement work is performed are shown here:
 ![pre NaN Scores By Spending image](/Resources/pre_NAN_scores_by_spending.png) 
@@ -151,7 +151,7 @@ The scores by school spending afer the Thomas ninth grade data replacement work 
 ![after NaN Scores By Spending image](/Resources/after_NAN_scores_by_spending.png) 
 
 ## Scores by school size
-The scores by school size information changed after the replacement because student counts were impacted.
+The scores by school size information changed after the replacement because the percentages were impacted.
 
 The scores by school size before the Thomas ninth grade data replacement work is performed are shown here:
 ![pre NaN Scores By School Size image](/Resources/pre_NAN_scores_by_school_size.png) 
@@ -160,7 +160,7 @@ The scores by school size after the Thomas ninth grade data replacement work is 
 ![after NaN Scores By School Size image](/Resources/after_NAN_scores_by_school_size.png) 
 
 ## Score by school type
-The scores by school type information changed after the replacement because student counts were impacted.
+The scores by school type information changed after the replacement because the percentages were impacted.
 
 The scores by school type before the Thomas ninth grade data replacement work is performed are shown here:
 ![pre NaN Scores By School Type image](/Resources/pre_NAN_scores_by_school_type.png) 
@@ -169,9 +169,9 @@ The scores by school type after the Thomas ninth grade data replacement work is 
 ![after NaN Scores By School Type image](/Resources/after_NAN_scores_by_school_type.png) 
 
 ## School District Analysis changes - impact of replacing a school grade's math and reading scores with NaN
-1. As part of the presention of this altered information, the presenter should inform data users of the special circumstances around the data changes and if needed notate this information on any handouts etc.
+1. As part of the presention of this altered information, the presenter could inform data users of the special circumstances around the data changes and if needed notate this information on any handouts etc.
 2. District Summary was impacted slightly
 3. Thomas High School's testing scores in the School Summary were impacted by the data replacement work and may be misleading.
-4. The data replacement did not effect Thomas High School's overall ranking or the ranking of other schools.
-5. Because the average math and reading score are by grade, the replacements show and it is evident that the Thomas High School ninth grade scores are not being calculated
-6. The scores by spending, school size, and school type are percentages based on testing scores and as such the results for all these were impacted by the data replacement.
+4. The data replacement did not have an effect on Thomas High School's overall ranking or the ranking of other schools.
+5. Because the average math and reading score are by grade, the replacements show and it is evident that the Thomas High School ninth grade scores are not being calculated.
+6. The scores by spending, school size, and school type are percentages and as such the results for all these were impacted by the data replacement.
