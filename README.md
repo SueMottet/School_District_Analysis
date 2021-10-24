@@ -87,7 +87,7 @@ The school district analysis results include a number of metrics aimed at identi
 
 ## School District Metrics
 ### District Summary Comparison
-The district summary information changed after the replacement but only slightly and data change would likely not be evident to data users (the school board and superintendent)
+The district summary information changed after the replacement but only slightly and the data change would likely not be evident to data users (the school board and superintendent)
 
 The District Summary before the Thomas ninth grade data replacement work is performed is shown here:
 ![pre NaN District Summary image](/Resources/pre_district_summary.png)
@@ -96,7 +96,7 @@ The District Summary after the Thomas ninth grade data replacement work is perfo
 ![after NaN District Summary image](/Resources/after_NAN_district_summary.png)
 
 ## School Summary
-The school summary information changed after the replacement but only for Thomas High School and data change would likely not be evident to data users (the school board and superintendent). It looks like removing the ninth grade testing scores made Thomas High School math, reading, and overall tesing numbers improve.
+The school summary information changed after the replacement but only for Thomas High School and the data change would likely not be evident to data users (the school board and superintendent). It looks like removing the ninth grade testing scores made Thomas High School math, reading, and overall tesing numbers improve.
 
 The School Summary before the Thomas ninth grade data replacement work is performed is shown here:
 ![pre NaN School Summary image](/Resources/pre_NAN_school_summary.png) 
@@ -105,7 +105,7 @@ The School Summary after the Thomas ninth grade data replacement work is perform
 ![after NaN School Summary image](/Resources/after_NAN_school_summary.png)
 
 ## Top 5 Performing Schools Comparision (based on the overall passing rate)
-The top five performing school information changed after the replacement but only for Thomas High School and data change would likely not be evident to data users (the school board and superintendent). It looks like removing the ninth grade testing scores did not impact Thomas High Schools performance rank.
+The top five performing school information changed after the replacement but only for Thomas High School and the data change would likely not be evident to data users (the school board and superintendent). It looks like removing the ninth grade testing scores did not impact Thomas High Schools performance rank.
 
 The top five performing schools before the Thomas ninth grade data replacement work is performed are shown here:
 ![pre NaN High Performing Schools image](/Resources/pre_NAN_high_performing_schools.png) 
