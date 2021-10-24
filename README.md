@@ -20,12 +20,12 @@ Both sets of analysis include the following metrics:
 Before performing the replacement of the Thomas High School ninth grade reading and math scores the school data was populated with numbers like all the rest of the schools testing scores.
 
 A de-identified sampling of the Thomas ninth grade data before the data replacement work is performed is shown here:
-
+![Pre Replacement image](/Resources/did_pre_NAN_replacement.png)
 
 After performing the replacement of the Thomas High School ninth grade reading and math scores with NaN, the school data was altered only for one school: Thomas High School and one grade: ninth grade. the rest of the school data was left as it was. 
 
 A de-identified sampling of the school daa showing the Thomas High School ninth grade data changed is shown here:
-
+![After Replacement image](/Resources/did_after_NAN_replacement.png)
 
 ## Repeating the school district analysis
 
@@ -95,7 +95,7 @@ A de-identified sampling of the school daa showing the Thomas High School ninth 
 * #### After
 
 ![after NaN School Summary image](/Resources/after_NAN_school_summary.png)
-* 
+
 ## Top 5 Performing Schools Comparision (based on the overall passing rate)
 
 #### Before 
