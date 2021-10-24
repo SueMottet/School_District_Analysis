@@ -82,7 +82,8 @@ The written reort on this school district analysis is included in this README.
 * Pandas sort_value() https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html
 * Pandas cut() https://courses.bootcampspot.com/courses/811/pages/4-dot-11-dot-2-categorize-the-spending-bins?module_item_id=301219
 *
-# School District Analysis Results
+# School District Analysis Result Summary
+The school district analysis results include a number of metrics aimed at identifying trends in school performance.  Removing data for a whole grade at one of the schools in the district will impact the accuracy of the school performance information and make identifying these trends more difficult. The nature of these impacts will be detailed as part of this analysis results summary.
 
 ## School District Metrics
 ### District Summary Comparison
