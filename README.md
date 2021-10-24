@@ -94,13 +94,12 @@ The District Summary after the Thomas ninth grade data replacement work is perfo
 ![after NaN District Summary image](/Resources/after_NAN_district_summary.png)
 
 ## School Summary
+The school summary information changed after the replacement but only for Thomas High School and data change would likely not be evident to data users (the school board and superintendent). It looks like removing the ninth grade testing scores made Thomas High School math, reading, and overall tesing numbers improve.
 
-#### Before
-
+The School Summary before the Thomas ninth grade data replacement work is performed is shown here:
 ![pre NaN School Summary image](/Resources/pre_NAN_school_summary.png) 
 
-* #### After
-
+The School Summary after the Thomas ninth grade data replacement work is performed is shown here:
 ![after NaN School Summary image](/Resources/after_NAN_school_summary.png)
 
 ## Top 5 Performing Schools Comparision (based on the overall passing rate)
